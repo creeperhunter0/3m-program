@@ -1,0 +1,17 @@
+hi, this is 3m program
+
+starting at 8 AM , 6/25/2023
+saved on github repo "https://github.com/creeperhunter0/3m-program.git"
+
+schedule:
+
+
+
+**Month 1: Foundations**
+
+    *Week 1: Introduction to Programming*
+
+    1. Learn Python: Complete Python for Everybody specialization by University of Michigan on Coursera or Automate the Boring Stuff with Python by Al Sweigart.
+    2. Daily practice: Solve at least 3 problems on LeetCode or HackerRank daily.
+        day one:
+        
